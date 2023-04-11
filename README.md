@@ -1,5 +1,10 @@
 ### Hello I'm Ivan👋
 
+QA -> IT Software Developer -> ?!
+
+✨ Software
+- Programming Language : <JavaScript> <Python> 
+
 <!--
 **IvaninITworld/IvaninITworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
