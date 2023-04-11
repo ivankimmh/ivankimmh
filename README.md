@@ -3,7 +3,7 @@
 ## _QA -> IT Software Developer -> ?!_
 
 ✨ Software
-- Programming Language : <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+- Programming Language : <img src="https://img.shields.io/badge/JavaScript#F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <!--
 **IvaninITworld/IvaninITworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
