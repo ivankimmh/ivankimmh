@@ -1,6 +1,6 @@
 ## Hello I'm Ivan👋
 
-QA -> IT Software Developer -> ?!
+## _QA -> IT Software Developer -> ?!_
 
 ✨ Software
 -Programming Language : <JavaScript> <Python> 
