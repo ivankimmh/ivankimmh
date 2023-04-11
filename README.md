@@ -1,6 +1,6 @@
 # Hello I'm Ivan👋
 
-I worked as a Software QA in the UK for about three and a half years. While working with Software Engineers, I didn't have direct involvement in product development, but I gained interest in development through some side projects.
+I worked as a Software QA in the UK for about three and a half years. While working with Software Engineers, I didn't have direct involvement in product development, but I gained interest in development through some side development projects.
 
 Now I am a Software developer!
 
