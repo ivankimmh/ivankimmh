@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/MySQL-3B3B3B?style=round&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/PostgreSQL-3B3B3B?style=round&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/MongoDB-3B3B3B?style=round&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Sequelize-3B3B3B?style=round&logo=sequelize&logoColor=52B0E7"/> 
 
-
+<img src="https://img.shields.io/badge/Git-3B3B3B?style=round&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-3B3B3B?style=round&logo=github&logoColor=181717"/> <img src="https://img.shields.io/badge/Docker-3B3B3B?style=round&logo=docker&logoColor=2496ED"/> 
 
 <!--
 **IvaninITworld/IvaninITworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
