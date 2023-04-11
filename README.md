@@ -4,7 +4,7 @@
 
 ✨ Software
 - Programming Language : 
-<img src="https://img.shields.io/badge/JavaScript-808080?style=round&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/JavaScript-3B3B3B?style=round&logo=javascript&logoColor=F7DF1E"/>
 
 
 
