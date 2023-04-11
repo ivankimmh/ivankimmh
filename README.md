@@ -1,8 +1,10 @@
 # Hello I'm Ivan👋
 
-I worked as a Software QA in the UK for about three and a half years. While working with Software Engineers, I didn't have direct involvement in product development, but I gained interest in development when I felt the thrill of automating operation processes (that I was in charge of. And It was successful 😊) through side projects with the help of developers. In July 2022, I joined a boot camp and it was my first step in IT industry as a developer.
+I worked as a Software QA in the UK for about three and a half years. While working with Software Engineers, I didn't have direct involvement in product development, but I gained interest in development through some side projects.
 
-I mainly focused on web service development while experiencing IoT and AI parts during the Digital Twin boot camp curriculum. During the education process, I became interested in the back-end part and took charge of the back-end part for the first team project. However, as time goes by, I felt the need for knowledge in front-end part as well, so I am tying to accumulate development experience in a direction that understands both sides as much as possible.
+Now I am a Software developer!
+
+I mainly focused on web service development while experiencing IoT and AI parts during the Digital Twin boot camp curriculum.
 
 
 ## Programming Skills,
