@@ -5,6 +5,8 @@ I worked as a Software QA in the UK for about three and a half years. While work
 Now I am a Software developer!
 
 
+
+
 ## Programming Skills,
 <img src="https://img.shields.io/badge/JavaScript-3B3B3B?style=round&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-3B3B3B?style=round&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/TypeScript-3B3B3B?style=round&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/C-3B3B3B?style=round&logo=c&logoColor=A8B9CC"/> 
 
