@@ -1,8 +1,10 @@
 # Hello I'm Ivan👋
 
-I worked as a Software QA in the UK for about three and a half years. While working with Software Engineers, I didn't have direct involvement in product development, but I gained interest in development through some side development projects.
+I worked as a software QA operator in the UK for three and a half years. During my work with developers, I realized the need to increase work productivity by introducing automation systems. As a result, I collaborated with developers on a side project to develop a program that automates processes, which led to a 300% increase in productivity.
 
-Now I am a Software developer!
+This experience motivated me to pursue a career as an IT developer. As an IT developer, it is essential to quickly and efficiently find solutions to similar problems. Through this experience, I have developed the ability to identify and solve problems and can find effective solutions when facing similar problems in the future.
+
+As an IT developer, I will always be thinking of various ways to solve problems outside of development work and work collaboratively with team members to successfully complete projects.
 
 
 
