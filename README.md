@@ -10,7 +10,7 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 
 
 ## Programming Skills,
-<img src="https://img.shields.io/badge/JavaScript-3B3B3B?style=round&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-3B3B3B?style=round&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/TypeScript-3B3B3B?style=round&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/C-3B3B3B?style=round&logo=c&logoColor=A8B9CC"/> 
+<img src="https://img.shields.io/badge/JavaScript-3B3B3B?style=round&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-3B3B3B?style=round&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Python-3B3B3B?style=round&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C-3B3B3B?style=round&logo=c&logoColor=A8B9CC"/> 
 
 <img src="https://img.shields.io/badge/Node.js-3B3B3B?style=round&logo=nodedotjs&logoColor=339933"/> <img src="https://img.shields.io/badge/Vue.js-3B3B3B?style=round&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/Express.js-3B3B3B?style=round&logo=express&logoColor=000000"/> <img src="https://img.shields.io/badge/Three.js-3B3B3B?style=round&logo=threedotjs&logoColor=000000"/> <img src="https://img.shields.io/badge/React.js-3B3B3B?style=round&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Flask-3B3B3B?style=round&logo=Flask&logoColor=000000"/>
 
