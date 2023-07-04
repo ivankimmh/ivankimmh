@@ -34,3 +34,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+## Achievement & Certification
+- CS50x
+- ADsP
+- SQLD
