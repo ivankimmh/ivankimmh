@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 
 ## 🏆 Achievements & Certifications
 
-- <h3 style="color:cyan"> [Certified] **CS50x**</h3>
+- <h3 style="color:cyan"> [Certified] CS50x</h3>
   Online computer science course provided by Harvard University [Harvard X], May 11, 2023
 
-- <h3 style="color:cyan"> [Certified] **ADsP**</h3>
+- <h3 style="color:cyan"> [Certified] ADsP</h3>
   Advanced Data Analytics Semi-Professional, June 16, 2023
   
-- <h3 style="color:cyan"> [Certified] **SQLD**</h3>
+- <h3 style="color:cyan"> [Certified] SQLD</h3>
   Structured Query Language Developer, July 8, 2023
 
