@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Ivan👋</h1>
-<h3 align="center">A passionate software developer from the UK</h3>
+<h3 align="center">A passionate software developer</h3>
 
 I worked as a software QA operator in the UK for three and a half years. During my work with developers, I realized the need to increase work productivity by introducing automation systems. As a result, I collaborated with developers on a side project to develop a program that automates processes, which led to a 300% increase in productivity.
 
