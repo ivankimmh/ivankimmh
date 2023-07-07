@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 ## 🏆 Achievements & Certifications
 
-- [Certified] **CS50x**: Online computer science course provided by Harvard University [Harvard X], May 11, 2023
-- [Certified] **ADsP**: Advanced Data Analytics Semi-Professional, June 16, 2023
-- [Certified] **SQLD**: Structured Query Language Developer, July 8, 2023
+- [Certified] <span style="color:cyan">**CS50x**</span>: Online computer science course provided by Harvard University [Harvard X], May 11, 2023
+- [Certified] <span style="color:cyan">**ADsP**</span>: Advanced Data Analytics Semi-Professional, June 16, 2023
+- [Certified] <span style="color:cyan">**SQLD**</span>: Structured Query Language Developer, July 8, 2023
+
