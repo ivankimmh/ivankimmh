@@ -1,4 +1,5 @@
-# Hello I'm Ivan👋
+<h1 align="center">Hello, I'm Ivan👋</h1>
+<h3 align="center">A passionate software developer from the UK</h3>
 
 I worked as a software QA operator in the UK for three and a half years. During my work with developers, I realized the need to increase work productivity by introducing automation systems. As a result, I collaborated with developers on a side project to develop a program that automates processes, which led to a 300% increase in productivity.
 
@@ -8,8 +9,8 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 
 
 
+## 🧰 Languages and Tools:
 
-## Programming Skills,
 <img src="https://img.shields.io/badge/JavaScript-3B3B3B?style=round&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-3B3B3B?style=round&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Python-3B3B3B?style=round&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C-3B3B3B?style=round&logo=c&logoColor=A8B9CC"/> 
 
 <img src="https://img.shields.io/badge/Node.js-3B3B3B?style=round&logo=nodedotjs&logoColor=339933"/> <img src="https://img.shields.io/badge/Vue.js-3B3B3B?style=round&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/Express.js-3B3B3B?style=round&logo=express&logoColor=000000"/> <img src="https://img.shields.io/badge/Three.js-3B3B3B?style=round&logo=threedotjs&logoColor=000000"/> <img src="https://img.shields.io/badge/React.js-3B3B3B?style=round&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Flask-3B3B3B?style=round&logo=Flask&logoColor=000000"/>
@@ -35,7 +36,8 @@ Here are some ideas to get you started:
 -->
 
 
-## Achievement & Certification
-- [Certified] CS50x : online computer science course provided by Harvard University [Harvard X], May 11, 2023
-- [Certified] ADsP : Advanced Data Analytics Semi-Professional, June 16, 2023
-- [Certified] SQLD : Structured Query Language Developer, July 8, 2023
+## 🏆 Achievements & Certifications
+
+- [Certified] **CS50x**: Online computer science course provided by Harvard University [Harvard X], May 11, 2023
+- [Certified] **ADsP**: Advanced Data Analytics Semi-Professional, June 16, 2023
+- [Certified] **SQLD**: Structured Query Language Developer, July 8, 2023
