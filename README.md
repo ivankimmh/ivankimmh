@@ -59,7 +59,13 @@ As an IT developer, I will always be thinking of various ways to solve problems 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
+</div>
+
+###
 </div>
 
 ###
@@ -99,6 +105,8 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 <img src="https://img.shields.io/badge/Github-3B3B3B?style=round&logo=github&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/Terraform-3B3B3B?style=round&logo=terraform&logoColor=7B42BC"/>
 <img src="https://img.shields.io/badge/GCP-3B3B3B?style=round&logo=googlecloud&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Kubernetes-3B3B3B?style=round&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/ArgoCD-3B3B3B?style=round&logo=argo&logoColor=EF7B4D"/>
 
 
 </div>
