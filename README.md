@@ -38,13 +38,7 @@ As an IT developer, I will always be thinking of various ways to solve problems 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
@@ -71,6 +65,12 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 ###
 
 <!--
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -94,10 +94,7 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3B3B3B?style=round&logo=python&logoColor=3776AB"/> 
 <img src="https://img.shields.io/badge/JavaScript-3B3B3B?style=round&logo=javascript&logoColor=F7DF1E"/> 
-<img src="https://img.shields.io/badge/TypeScript-3B3B3B?style=round&logo=typescript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/django-3B3B3B?style=flat-square&logo=django&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Express.js-3B3B3B?style=round&logo=express&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Node.js-3B3B3B?style=round&logo=nodedotjs&logoColor=339933"/>
 <img src="https://img.shields.io/badge/Vue.js-3B3B3B?style=round&logo=vuedotjs&logoColor=4FC08D"/>
 <img src="https://img.shields.io/badge/PostgreSQL-3B3B3B?style=round&logo=postgresql&logoColor=4169E1"/> 
 <img src="https://img.shields.io/badge/Docker-3B3B3B?style=round&logo=docker&logoColor=2496ED"/>
@@ -113,6 +110,9 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 
 
 <!--
+<img src="https://img.shields.io/badge/Express.js-3B3B3B?style=round&logo=express&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Node.js-3B3B3B?style=round&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/TypeScript-3B3B3B?style=round&logo=typescript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/React.js-3B3B3B?style=round&logo=React&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/C-3B3B3B?style=round&logo=c&logoColor=A8B9CC"/>
 <img src="https://img.shields.io/badge/Three.js-3B3B3B?style=round&logo=threedotjs&logoColor=000000"/>
