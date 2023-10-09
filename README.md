@@ -32,6 +32,20 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 
 ## 🧰 Languages and Tools:
 
+<!--
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,django,vue,postgres,docker,git,github,kubernetes,docker" />
+  </a>
+</p>
+-->
+
+<!-- 
+<div align="center">
+<div style="background-color: #808080; border-radius: 12px; padding: 20px; width: 200px;" align="center">
+  -->
+  
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -60,7 +74,6 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 </div>
 
 ###
-</div>
 
 ###
 
