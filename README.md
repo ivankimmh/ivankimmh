@@ -44,33 +44,36 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 <div align="center">
 <div style="background-color: #808080; border-radius: 12px; padding: 20px; width: 200px;" align="center">
   -->
-  
-
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919539/noticon/j2h9ud10ssbihscfqlwy.png" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1673248072/noticon/uj1sljza7nnsj0lpilwk.png" height="40" alt="github actions logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1643226154/noticon/wdbbwmhayat3eptf80zb.png" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
+  <img width="12" />
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1687004031/noticon/zepmlkjtdv81gu275myl.png" height="40" alt="NCP"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
 </div>
 
 ###
@@ -78,7 +81,7 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 ###
 
 <!--
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
@@ -95,11 +98,6 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 -->
 
 
-  
-<div align="left">
-  
-</div>
-
 ###
 
 ###
@@ -113,12 +111,12 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 <img src="https://img.shields.io/badge/Docker-3B3B3B?style=round&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Git-3B3B3B?style=round&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/Github-3B3B3B?style=round&logo=github&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GithubActions-3B3B3B?style=round&logo=githubactions&logoColor=2088FF"/>
 <img src="https://img.shields.io/badge/Terraform-3B3B3B?style=round&logo=terraform&logoColor=7B42BC"/>
-<img src="https://img.shields.io/badge/GCP-3B3B3B?style=round&logo=googlecloud&logoColor=4285F4"/>
 <img src="https://img.shields.io/badge/Kubernetes-3B3B3B?style=round&logo=kubernetes&logoColor=326CE5"/>
 <img src="https://img.shields.io/badge/ArgoCD-3B3B3B?style=round&logo=argo&logoColor=EF7B4D"/>
-
-
+<img src="https://img.shields.io/badge/NaverCloud-3B3B3B?style=round&logo=naver&logoColor=03C75A"/>
+<img src="https://img.shields.io/badge/GCP-3B3B3B?style=round&logo=googlecloud&logoColor=4285F4"/>
 </div>
 
 
