@@ -52,8 +52,6 @@ As an IT developer, I will always be thinking of various ways to solve problems 
   <img width="12" />
   <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919539/noticon/j2h9ud10ssbihscfqlwy.png" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -72,8 +70,6 @@ As an IT developer, I will always be thinking of various ways to solve problems 
   <img width="12" />
   <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1687004031/noticon/zepmlkjtdv81gu275myl.png" height="40" alt="NCP"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -81,6 +77,8 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 ###
 
 <!--
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
@@ -95,6 +93,8 @@ As an IT developer, I will always be thinking of various ways to solve problems 
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <div width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
 -->
 
 
@@ -106,7 +106,6 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 <img src="https://img.shields.io/badge/Python-3B3B3B?style=round&logo=python&logoColor=3776AB"/> 
 <img src="https://img.shields.io/badge/JavaScript-3B3B3B?style=round&logo=javascript&logoColor=F7DF1E"/> 
 <img src="https://img.shields.io/badge/django-3B3B3B?style=flat-square&logo=django&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Vue.js-3B3B3B?style=round&logo=vuedotjs&logoColor=4FC08D"/>
 <img src="https://img.shields.io/badge/PostgreSQL-3B3B3B?style=round&logo=postgresql&logoColor=4169E1"/> 
 <img src="https://img.shields.io/badge/Docker-3B3B3B?style=round&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Git-3B3B3B?style=round&logo=git&logoColor=F05032"/>
@@ -116,11 +115,11 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 <img src="https://img.shields.io/badge/Kubernetes-3B3B3B?style=round&logo=kubernetes&logoColor=326CE5"/>
 <img src="https://img.shields.io/badge/ArgoCD-3B3B3B?style=round&logo=argo&logoColor=EF7B4D"/>
 <img src="https://img.shields.io/badge/NaverCloud-3B3B3B?style=round&logo=naver&logoColor=03C75A"/>
-<img src="https://img.shields.io/badge/GCP-3B3B3B?style=round&logo=googlecloud&logoColor=4285F4"/>
 </div>
 
 
 <!--
+<img src="https://img.shields.io/badge/Vue.js-3B3B3B?style=round&logo=vuedotjs&logoColor=4FC08D"/>
 <img src="https://img.shields.io/badge/Express.js-3B3B3B?style=round&logo=express&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Node.js-3B3B3B?style=round&logo=nodedotjs&logoColor=339933"/>
 <img src="https://img.shields.io/badge/TypeScript-3B3B3B?style=round&logo=typescript&logoColor=3178C6"/>
@@ -135,6 +134,7 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 <img src="https://img.shields.io/badge/Slack-3B3B3B?style=round&logo=Slack&logoColor=4A154B"/>
 <img src="https://img.shields.io/badge/GitHub-3B3B3B?style=round&logo=github&logoColor=181717"/>
 <img src="https://img.shields.io/badge/AWS-3B3B3B?style=round&logo=amazonaws&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/GCP-3B3B3B?style=round&logo=googlecloud&logoColor=4285F4"/>
 -->
 
 
