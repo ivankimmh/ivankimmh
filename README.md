@@ -160,7 +160,7 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 
 ###
 
-
+<!--
 ## 🏆 Achievements & Certifications
 
 - <h3 style="color:cyan"> [Certified] CS50x</h3> 
@@ -171,5 +171,5 @@ As an IT developer, I will always be thinking of various ways to solve problems 
   
 - <h3 style="color:cyan"> [Certified] SQLD</h3> 
   Structured Query Language Developer, July 8, 2023
-
+-->
 
