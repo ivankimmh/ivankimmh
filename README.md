@@ -138,7 +138,9 @@ As an IT developer, I will always be thinking of various ways to solve problems 
 
 ###
 
+<!--
 <h3 align="left">🔥   My Stats :</h3>
+-->
 
 ###
 
