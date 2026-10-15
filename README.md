@@ -1,7 +1,7 @@
 <h1 align="left">Hello, I'm Ivan👋</h1>
 
 
-## 🧰 Languages and Tools:
+##
 
 <!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
