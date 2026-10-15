@@ -35,7 +35,7 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://img.shields.io/badge/Python-3B3B3B?style=round&logo=python&logoColor=3776AB"/> 
 <img src="https://img.shields.io/badge/JavaScript-3B3B3B?style=round&logo=javascript&logoColor=F7DF1E"/> 
 <img src="https://img.shields.io/badge/django-3B3B3B?style=flat-square&logo=django&logoColor=white"/> 
@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/Kubernetes-3B3B3B?style=round&logo=kubernetes&logoColor=326CE5"/>
 <img src="https://img.shields.io/badge/ArgoCD-3B3B3B?style=round&logo=argo&logoColor=EF7B4D"/>
 <img src="https://img.shields.io/badge/NaverCloud-3B3B3B?style=round&logo=naver&logoColor=03C75A"/>
-</div>
+</div> -->
 
 
 ###
